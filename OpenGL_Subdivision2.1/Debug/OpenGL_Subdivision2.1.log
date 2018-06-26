@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(OpenGL_Subdivision2.1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  OpenGL_Subdivision2.1.vcxproj -> D:\InnovationProject\OpenGL_Subdivision2.3\Debug\OpenGL_Subdivision2.3.exe
